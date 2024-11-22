@@ -574,7 +574,7 @@ body, html{
 }
 
 .third--canvas::after{
-	background:#1080f2;
+	background:deepskyblue;
 	animation-delay:700ms;
 }
 
